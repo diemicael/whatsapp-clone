@@ -16131,8 +16131,19 @@ html[dir=rtl] ._2ICcy:after{
     display: none;
 }
 #panel-emojis.open {
-    transform: translateY(0px);
+    transform: translateY(5px);
 }
 #main {
     display:none;
+}
+
+._2oKVP {
+    display: flex;
+    justify-content: center;
+}
+
+#picture-camera {
+    height: 100%;
+    width: auto;
+    text-align: center;
 }
